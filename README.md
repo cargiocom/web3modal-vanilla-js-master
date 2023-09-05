@@ -29,7 +29,6 @@ out of your file system or insecure HTTP protocol
 
 The APIs of different wallet providers
 may fail in funny and obscure way.
-
 Assuming you have a working Node environment set up on a UNIX
 system you can do:
 
