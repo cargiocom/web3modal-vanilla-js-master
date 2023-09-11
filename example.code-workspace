@@ -9,7 +9,7 @@
 		"editor.codeActionsOnSave": {
 			"source.fixAll.eslint": true,
 			"source.fixAll.tslint": true,
-			"source.fixAll.stylelint": true
+			"source.fixAll.stylelint": false
 		},
 
 		"prettier.requireConfig": true,
