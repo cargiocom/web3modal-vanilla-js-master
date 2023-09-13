@@ -5,7 +5,6 @@ const WalletConnectProvider = window.WalletConnectProvider.default;
 const Fortmatic = window.Fortmatic;
 const evmChains = window.evmChains;
 
-// Web3modal instance
 let web3Modal
 
 let provider;
