@@ -42,7 +42,7 @@ function init() {
   };
 
   web3Modal = new Web3Modal({
-    cacheProvider: false, // optional
+    cacheProvider: false, 
     providerOptions, // required
     disableInjectedProvider: false, // optional
   });
