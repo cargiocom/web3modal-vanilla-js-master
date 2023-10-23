@@ -37,6 +37,4 @@ npm i -g --only=prod https-localhost
 sudo serve .
 ```
 
-Then you can visit https://localhost to open the example.
-
 
