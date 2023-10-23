@@ -1,11 +1,5 @@
 This is a vanilla JavaScript example how to use Web3modal with different  wallet providers.
 
-The purpose of this example is how to connect a cryptocurrency wallet
-to a website that is build on traditional HTML technologies and does not
-use any modern JavaScript framework. Uses cases would include:
-static HTML sites, WordPress, content management systems,
-tutorials and education.
-
 The example works with
 
 * In-browser wallets (MetaMask, Opera, Brave),
