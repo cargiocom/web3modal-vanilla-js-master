@@ -1,5 +1,3 @@
-This is a vanilla JavaScript example how to use Web3modal with different  wallet providers.
-
 The example works with
 
 * In-browser wallets (MetaMask, Opera, Brave),
