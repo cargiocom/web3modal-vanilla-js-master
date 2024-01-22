@@ -1,5 +1,5 @@
 "use strict";
-4444
+44444
 const Web3Modal = window.Web3Modal.default;
 const WalletConnectProvider = window.WalletConnectProvider.default;
 const Fortmatic = window.Fortmatic;
